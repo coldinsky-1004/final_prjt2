@@ -1,0 +1,14 @@
+streamlit>=1.33
+python-dotenv>=1.0.1
+
+# PDF 로딩
+pypdf>=4.2.0
+
+# LangChain core + 모듈들
+langchain>=0.2.14
+langchain-community>=0.2.12
+langchain-openai>=0.1.22
+langchain-text-splitters>=0.2.2
+
+# Vector DB
+faiss-cpu>=1.8.0.post1
